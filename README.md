@@ -3,7 +3,7 @@
 Projet d'analyse de données réalisé avec Power BI sur les offres d'emploi dans le domaine de la Data.
 
 ## 📊 Aperçu du Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📁 Contenu du dépôt
 - `jobs.pbix` : Le fichier de travail Power BI avec le modèle de données, les visuels et les mesures.
